@@ -12,6 +12,8 @@
 java -jar javatopdfconver.jar C:/itextExamples/samplePDF C:/itextExamples/
 ```
 
+- The combined pdf in the above example will be available in C:/itextExamples/ with the name samplePDF.pdf
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
